@@ -122,3 +122,4 @@ After Email confirmation, Checkout should be manually enabled through BigCommerc
 BigCommerce team has been notified and they plan to add more detailed about this subject.
 </details>
 teteteq w qw
+  testtttt
