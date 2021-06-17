@@ -127,3 +127,5 @@ teteteq w qw
   yahoo
   
   google 
+  
+  bing
